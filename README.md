@@ -1,2 +1,2 @@
-# Bitcamp2023
+# bitcamp2023
 BeMore Hub
